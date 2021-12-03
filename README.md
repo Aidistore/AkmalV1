@@ -1,3 +1,6 @@
+### SC INI DI EDIT BY akmalXnaufal
+
+---------
 
 ### FOR TERMUX USER
 ```bash
